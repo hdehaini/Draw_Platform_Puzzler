@@ -2,6 +2,8 @@
 
 A platformer game where you can draw temporary platforms with your mouse to solve puzzles and reach the goal. Features infinite randomly generated levels with progressive difficulty and exciting new elements!
 
+📝 **[Read the full development blog post](blog_post.md)** - Learn about the design process, technical challenges, and what makes this game special!
+
 ## Installation
 
 1. Make sure you have Python installed

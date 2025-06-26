@@ -157,7 +157,9 @@ Whether you're a casual player looking for a creative challenge or a developer i
 
 ---
 
-*Want to try Draw Platform Puzzler? The game is open source and available on GitHub. All you need is Python and Pygame to start drawing your way to victory!*
+*Want to try Draw Platform Puzzler? The game is open source and available on GitHub at: https://github.com/hdehaini/Draw_Platform_Puzzler.git*
+
+*All you need is Python and Pygame to start drawing your way to victory!*
 
 ## Technical Specifications
 - **Language**: Python 3.x
@@ -169,6 +171,10 @@ Whether you're a casual player looking for a creative challenge or a developer i
 
 ## Installation & Play
 ```bash
+# Clone the repository
+git clone https://github.com/hdehaini/Draw_Platform_Puzzler.git
+cd Draw_Platform_Puzzler
+
 # Install dependencies
 pip install pygame
 
